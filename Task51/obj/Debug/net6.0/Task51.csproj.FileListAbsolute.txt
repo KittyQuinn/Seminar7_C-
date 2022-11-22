@@ -1,0 +1,15 @@
+/Users/kataryzova/Desktop/Seminar7 C#/Task51/bin/Debug/net6.0/Task51
+/Users/kataryzova/Desktop/Seminar7 C#/Task51/bin/Debug/net6.0/Task51.deps.json
+/Users/kataryzova/Desktop/Seminar7 C#/Task51/bin/Debug/net6.0/Task51.runtimeconfig.json
+/Users/kataryzova/Desktop/Seminar7 C#/Task51/bin/Debug/net6.0/Task51.dll
+/Users/kataryzova/Desktop/Seminar7 C#/Task51/bin/Debug/net6.0/Task51.pdb
+/Users/kataryzova/Desktop/Seminar7 C#/Task51/obj/Debug/net6.0/Task51.csproj.AssemblyReference.cache
+/Users/kataryzova/Desktop/Seminar7 C#/Task51/obj/Debug/net6.0/Task51.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kataryzova/Desktop/Seminar7 C#/Task51/obj/Debug/net6.0/Task51.AssemblyInfoInputs.cache
+/Users/kataryzova/Desktop/Seminar7 C#/Task51/obj/Debug/net6.0/Task51.AssemblyInfo.cs
+/Users/kataryzova/Desktop/Seminar7 C#/Task51/obj/Debug/net6.0/Task51.csproj.CoreCompileInputs.cache
+/Users/kataryzova/Desktop/Seminar7 C#/Task51/obj/Debug/net6.0/Task51.dll
+/Users/kataryzova/Desktop/Seminar7 C#/Task51/obj/Debug/net6.0/refint/Task51.dll
+/Users/kataryzova/Desktop/Seminar7 C#/Task51/obj/Debug/net6.0/Task51.pdb
+/Users/kataryzova/Desktop/Seminar7 C#/Task51/obj/Debug/net6.0/Task51.genruntimeconfig.cache
+/Users/kataryzova/Desktop/Seminar7 C#/Task51/obj/Debug/net6.0/ref/Task51.dll
